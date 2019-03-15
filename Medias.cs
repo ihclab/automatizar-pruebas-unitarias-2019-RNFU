@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AutomatizarPruebasUnitarias {
+namespace AutomatizarPruebasUnitarias { //Cambio 1
     
     class Medias {
 
