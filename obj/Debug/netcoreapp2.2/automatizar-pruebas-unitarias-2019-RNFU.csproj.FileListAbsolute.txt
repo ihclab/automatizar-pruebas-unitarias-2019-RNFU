@@ -1,0 +1,11 @@
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\obj\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.csprojAssemblyReference.cache
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\obj\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.csproj.CoreCompileInputs.cache
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\obj\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.AssemblyInfoInputs.cache
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\obj\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.AssemblyInfo.cs
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\bin\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.deps.json
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\bin\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.runtimeconfig.json
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\bin\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.runtimeconfig.dev.json
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\bin\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.dll
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\bin\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.pdb
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\obj\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.dll
+C:\Users\tecnologia\automatizar-pruebas-unitarias-2019-RNFU\obj\Debug\netcoreapp2.2\automatizar-pruebas-unitarias-2019-RNFU.pdb
